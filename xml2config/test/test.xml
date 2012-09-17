@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stdClass type="object">
+	<id>113</id>
+	<maxId>2000</maxId>
+	<level>3</level>
+	<Rank>1</Rank>
+	<bool type="boolean">false</bool>
+	<objects type="array">
+		<stdClass type="object">
+			<id>10</id>
+			<objectId>1</objectId>
+			<upgrades type="array">
+				<array>1</array>
+				<array>15</array>
+			</upgrades>
+		</stdClass>
+		<stdClass type="object">
+			<id>11</id>
+			<objectId>2</objectId>
+			<upgrades type="array">
+				<array>10</array>
+				<array>22</array>
+			</upgrades>
+		</stdClass>
+	</objects>
+	<objectsByKey type="array" key="objectId">
+		<stdClass type="object">
+			<id>20</id>
+			<objectId>two</objectId>
+			<upgrades type="array">
+				<array>1</array>
+				<array>15</array>
+			</upgrades>
+		</stdClass>
+		<stdClass type="object">
+			<id>21</id>
+			<objectId>one</objectId>
+			<upgrades type="array">
+				<array>10</array>
+				<array>22</array>
+			</upgrades>
+		</stdClass>
+	</objectsByKey>
+</stdClass>
